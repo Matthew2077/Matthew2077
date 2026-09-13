@@ -25,3 +25,4 @@ An interactive Telegram bot interface built to consume and interact directly wit
 ## 🔬 Currently Exploring & Learning
 - **Python Ecosystem:** Experimenting with new Python libraries and frameworks to broaden my backend toolset.
 - **System Design:** Refining API design practices, ORM patterns, and clean code principles.
+- **Python Django Framework**:
