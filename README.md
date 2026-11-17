@@ -42,7 +42,7 @@ A local-first web app for tracking a personal anime and manga library, rebuilt f
 * Highlights:
    * Series containing multiple entries (anime, films, OVAs, manga, light novels) with custom ordering
    * Progress tracking with a single, centralized status-rules function (e.g. last episode watched → completed)
-   * Genres, many-to-many tags, cover image uploads, search and filters
+   * Genres, cover image uploads, search and filters
    * One-off importer that migrates the data from v1.1 (JSON) into the new schema
    * Unit tests covering status rules, ordering and stats
 
